@@ -1,0 +1,16 @@
+PODS:
+  - ABCDEFGFramework (0.1.0)
+
+DEPENDENCIES:
+  - ABCDEFGFramework (from `../`)
+
+EXTERNAL SOURCES:
+  ABCDEFGFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ABCDEFGFramework: b7d6132b74b6d390049cf1452ef9cefcb4e3fe5e
+
+PODFILE CHECKSUM: ca49abdae761bac3a8c4edae9a6fb5c03d349964
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,22 @@
+{
+  "name": "ABCDEFGFramework",
+  "version": "0.1.0",
+  "summary": "A short description of ABCDEFGFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kashif.khatri@cubixlabs.com/ABCDEFGFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kashif.khatri@cubixlabs.com": "kashif.khatri@cubixlabs.com"
+  },
+  "source": {
+    "git": "https://github.com/kashif.khatri@cubixlabs.com/ABCDEFGFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ABCDEFGFramework/Classes/**/*"
+}

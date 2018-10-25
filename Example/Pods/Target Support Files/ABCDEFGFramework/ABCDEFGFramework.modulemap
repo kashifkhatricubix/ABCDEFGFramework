@@ -1,0 +1,6 @@
+framework module ABCDEFGFramework {
+  umbrella header "ABCDEFGFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
