@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ABCDEFGFramework_Tests' do
+  pod 'ABCDEFGFramework', :path => '../'
+  
+  
+end
