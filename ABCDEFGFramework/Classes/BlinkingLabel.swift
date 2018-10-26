@@ -20,5 +20,9 @@ open class BlinkingLabel: UILabel {
         alpha = 1
         layer.removeAllAnimations()
     }
+    
+    public func reset() {
+        
+    }
 
 }
